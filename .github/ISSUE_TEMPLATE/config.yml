@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Ask Pyrogram related questions
-    url: https://stackoverflow.com/questions/tagged/pyrogram
-    about: This place is only for reporting issues about Pyrogram. You can ask questions at StackOverflow.
+  - name: Ask Loligram related questions
+    url: https://stackoverflow.com/questions/tagged/loligram
+    about: This place is only for reporting issues about Loligram. You can ask questions at StackOverflow.
   - name: Join the Telegram channel
-    url: https://t.me/pyrogram
+    url: https://t.me/loligram
     about: Join the official channel and stay tuned for news, updates and announcements.

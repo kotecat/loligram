@@ -1,4 +1,4 @@
-name: Pyrogram
+name: Loligram
 
 on: [push, pull_request]
 
