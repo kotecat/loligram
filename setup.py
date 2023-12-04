@@ -44,7 +44,7 @@ setup(
     long_description=readme,
     long_description_content_type="text/markdown",
     url="https://github.com/kotecat/loligram",
-    download_url="hhttps://github.com/kotecat/loligram/releases/latest",
+    download_url="https://github.com/kotecat/loligram/releases/latest",
     author="kotecat",
     author_email="davidshaldunov@gmail.com",
     license="LGPLv3",
