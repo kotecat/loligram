@@ -1,5 +1,5 @@
 #  Loligram - Telegram MTProto API Client Library for Python
-#  Copyright (C) 2017-present Dan <https://github.com/delivrance>
+#  Copyright (C) 2023-present Loli <https://github.com/delivrance>
 #
 #  This file is part of Loligram.
 #
@@ -18,7 +18,7 @@
 
 __version__ = "1.0.0"
 __license__ = "GNU Lesser General Public License v3.0 (LGPL-3.0)"
-__copyright__ = "Copyright (C) 2017-present Dan <https://github.com/delivrance>"
+__copyright__ = "Copyright (C) 2023-present Loli <https://github.com/delivrance>"
 
 from concurrent.futures.thread import ThreadPoolExecutor
 
