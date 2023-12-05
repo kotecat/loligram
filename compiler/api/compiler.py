@@ -262,6 +262,8 @@ def start(format: bool = False):
             for i, item in enumerate(args):
                 if item[0] == "self":
                     args[i] = ("is_self", item[1])
+                elif item[0] == "from":
+                    args[i] = ("from_peer", item[1])
 
             combinator = Combinator(
                 section=section,
