@@ -34,6 +34,7 @@ class SendMessage:
         disable_web_page_preview: bool = None,
         disable_notification: bool = None,
         reply_to_message_id: int = None,
+        # reply_to
         schedule_date: datetime = None,
         protect_content: bool = None,
         reply_markup: Union[
@@ -134,7 +135,8 @@ class SendMessage:
                 reply_markup=await reply_markup.write(self) if reply_markup else None,
                 message=message,
                 entities=entities,
-                noforwards=protect_content
+                noforwards=protect_content,
+                update_stickersets_order=False
             )
         )
 
